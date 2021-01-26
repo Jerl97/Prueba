@@ -52,9 +52,9 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ILibro.cs" />
-    <Compile Include="Libro.cs" />
-    <Compile Include="Presupuesto.cs" />
+    <Compile Include="Modelo\Interfaces\ILibro.cs" />
+    <Compile Include="Modelo\Libro.cs" />
+    <Compile Include="Modelo\Presupuesto.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
